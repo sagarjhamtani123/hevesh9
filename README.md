@@ -72,13 +72,13 @@ This Tool Must Run As ROOT !!!
 
 git clone https://github.com/sagarjhamtani123/hevesh9.git
 
-cd hacktronian
+cd hevesh9
 
 chmod +x install.sh
 
 ./install.sh
 
-That's it.. you can execute tool by typing hacktronian
+That's it.. you can execute tool by typing hevesh9
 
 Installation in Android :
 Open Termux
@@ -89,8 +89,8 @@ pkg install python
 
 git clone https://github.com/sagarjhamtani123/hevesh9.git
 
-cd hacktronian
+cd hevesh9
 
-chmod +x hacktronian.py
+chmod +x hevesh9.py
 
-python2 hacktronian.py
+python2 hevesh9.py
