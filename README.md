@@ -70,7 +70,7 @@ Weeman
 Installation in Linux :
 This Tool Must Run As ROOT !!!
 
-git clone https://github.com/thehackingsage/hacktronian.git
+git clone https://github.com/sagarjhamtani123/hevesh9.git
 
 cd hacktronian
 
@@ -87,7 +87,7 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/thehackingsage/hacktronian.git
+git clone https://github.com/sagarjhamtani123/hevesh9.git
 
 cd hacktronian
 
